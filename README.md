@@ -9,13 +9,13 @@ Check the price changing for certain coin with real time data.
  - [x] Coin price status (grow, fall)
 
 ## In the future
- - [] Settings page
-    - [] Set default fiat
-    - [] Choose theme
- - [] Exchange rate for fiats and other coins
- - [] Update coin page:
-    - [] Add exhange information
-    - [] Optimize loading
+ - [ ] Settings page
+    - [ ] Set default fiat
+    - [ ] Choose theme
+ - [ ] Exchange rate for fiats and other coins
+ - [ ] Update coin page:
+    - [ ] Add exhange information
+    - [ ] Optimize loading
 
 ## Screens
  ![Main1](/screens/1.png)
