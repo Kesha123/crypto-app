@@ -21,4 +21,4 @@ Check the price changing for certain coin with real time data.
  ![Main1](/screens/1.png)
  ![Main2](/screens/2.png)
  ![Main3](/screens/3.png)
- ![Main3](/screens/3.png)
+ ![Main3](/screens/4.png)
